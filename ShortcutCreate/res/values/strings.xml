@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShortcutCreate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btTxCreate">Create Shortcut</string>
+    <string name="btTxRemove">Remove Shortcut</string>
+
+</resources>
